@@ -1,0 +1,26 @@
+/*
+ Theme Name:     5s3s
+ Author:         5s3s
+ Template:       Divi
+ Version:        1.0.0
+*/
+ 
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+.background{
+background:linear-gradient(0deg,rgba(0,0,0,0.3) 0,rgba(0,0,0,0.8) 100%),url(https://5s3s.ca/wp-content/uploads/2019/02/023.png) no-repeat center top fixed;	
+}
+
+@font-face
+{
+    font-family:'Prime Regular';
+    src: url('/wp-content/themes/Divi-child/font/Prime-Regular.eot');
+    src: url('/wp-content/themes/Divi-child/font/Prime-Regular.otf') format('opentype'), 
+         url('/wp-content/themes/Divi-child/font/Prime-Regular.woff') format('woff'),
+         url('/wp-content/themes/Divi-child/font/Prime-Regular.woff2') format('woff2'),
+         url('/wp-content/themes/Divi-child/font/Prime-Regular.tiff') format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
